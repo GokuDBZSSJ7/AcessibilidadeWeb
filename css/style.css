@@ -1,0 +1,33 @@
+body{
+    font-size: 1rem;
+    line-height: 1.5;
+    background-color: white;
+    color: black;
+}
+
+.high-contrast{
+    background-color: black !important;
+    color: white !important;
+}
+
+#content{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#zoom-controls{
+    margin-top: 20px;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+
